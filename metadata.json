@@ -1,0 +1,6 @@
+{
+  "name": "Clove Dental – Jangpura",
+  "description": "Multi-speciality dental clinic in Bhogal, Jangpura, New Delhi. 4.9★ rated care for teeth cleaning, root canal, braces, dental implants & cosmetic dentistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
